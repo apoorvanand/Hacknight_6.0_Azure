@@ -4,7 +4,7 @@ A Microlending Platform for consumers seeking loans from financial institutions,
 ## Components 
 #### 1.Consumer Application - Consumer Facing portal for uploading KYC documents and Loan applications
 #### 2.Admin Application – Financial Institution facing for Approvals and management
-#### 3.Decision Platform- Azure Machine Learning powered platform For Analysis of KYC  Data and documents analysis Using FICO score ,Experian and TransUnion Score. 
+#### 3.Decision Platform- Azure Machine Learning powered platform For Analysis of KYC  Data and documents analysis ,Using FICO score ,Experian and TransUnion Score. 
 
 ## Business Flow Chart 
 ![Microlending Platform Using Azure ](https://apoorwanand.s3.amazonaws.com/MicroLendingPlatformUserOnBoarding.png)
