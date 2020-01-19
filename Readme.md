@@ -19,3 +19,4 @@ A Microlending Platform for consumers seeking loans from financial institutions,
 ##### Batch Reporting : JSR 352 
 ##### Encryption : AES-256
 ##### Azure Machine learning Studio – Decision Platform
+##### Azure Blob Storage , Azure Sendgrid 
